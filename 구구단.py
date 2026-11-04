@@ -6,4 +6,5 @@ for i in range(2, 10):
 
     print()
 
+    # 수정
     # 송민경이 수정함
